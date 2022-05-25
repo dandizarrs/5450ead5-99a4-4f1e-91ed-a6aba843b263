@@ -178,6 +178,9 @@
 1654709134.559927399s 1 https://api.dandiarchive.org/api/zarr/5450ead5-99a4-4f1e-91ed-a6aba843b263.zarr/1/0/0/6/4/10
 1654709134.811541241s 1 https://api.dandiarchive.org/api/zarr/5450ead5-99a4-4f1e-91ed-a6aba843b263.zarr/1/0/0/6/4/11
 1654709166.494215868s 1 https://api.dandiarchive.org/api/zarr/5450ead5-99a4-4f1e-91ed-a6aba843b263.zarr/1/0/0/6/4/7
+1655240010.820087s 1 https://api.dandiarchive.org/api/zarr/5450ead5-99a4-4f1e-91ed-a6aba843b263.zarr/1/0/0/7/2/8
+1655240085.947693s 1 https://api.dandiarchive.org/api/zarr/5450ead5-99a4-4f1e-91ed-a6aba843b263.zarr/1/0/0/7/4/12
+1655240124.184217s 1 https://api.dandiarchive.org/api/zarr/5450ead5-99a4-4f1e-91ed-a6aba843b263.zarr/1/0/0/7/4/8
 1654637410.7772216s 1 https://dandiarchive.s3.amazonaws.com/zarr/5450ead5-99a4-4f1e-91ed-a6aba843b263/0/0/0/10/6/11?versionId=I9RVbxEw92DkIZ4IdgHmB_uHsIs1jdIJ
 1654637413.088334698s 1 https://dandiarchive.s3.amazonaws.com/zarr/5450ead5-99a4-4f1e-91ed-a6aba843b263/0/0/0/10/6/12?versionId=tewrsEpfsaljnFmHEMN13iAN9l9tyLRf
 1654637415.854511024s 1 https://dandiarchive.s3.amazonaws.com/zarr/5450ead5-99a4-4f1e-91ed-a6aba843b263/0/0/0/10/6/13?versionId=xXrFMZ0oqIGkTZA44a_y.ZMnK6639x6.
@@ -358,3 +361,6 @@
 1654709134.510829468s 1 https://dandiarchive.s3.amazonaws.com/zarr/5450ead5-99a4-4f1e-91ed-a6aba843b263/1/0/0/6/4/10?versionId=d_Ur.bVtdoonyx5GuLPbwGBi9CoElGWO
 1654709134.755735541s 1 https://dandiarchive.s3.amazonaws.com/zarr/5450ead5-99a4-4f1e-91ed-a6aba843b263/1/0/0/6/4/11?versionId=1Wxi.d2.OhZEPyPkA_ubbw52Ujdib1kR
 1654709166.461043953s 1 https://dandiarchive.s3.amazonaws.com/zarr/5450ead5-99a4-4f1e-91ed-a6aba843b263/1/0/0/6/4/7?versionId=HyKLQI3wRsAv0vgzUgSP0l2KClUan22_
+1655240010.773405s 1 https://dandiarchive.s3.amazonaws.com/zarr/5450ead5-99a4-4f1e-91ed-a6aba843b263/1/0/0/7/2/8?versionId=cMjxpRGwmIqZP.Qbe_C.qGr80fzVfS1d
+1655240085.815092s 1 https://dandiarchive.s3.amazonaws.com/zarr/5450ead5-99a4-4f1e-91ed-a6aba843b263/1/0/0/7/4/12?versionId=vEOEDAges8Ss.4oXEL3iX1IM5gjJlO7b
+1655240124.142884s 1 https://dandiarchive.s3.amazonaws.com/zarr/5450ead5-99a4-4f1e-91ed-a6aba843b263/1/0/0/7/4/8?versionId=2r7.lYl2v79hUNtPT.HnFICkjvrcpF1y
